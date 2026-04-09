@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Braintree Landed Cost 
+title: Braintree Projects and Professional Services
 description: Support and documentation for Braintree's Projects extension to Microsoft Dynamics 365 Business Central
 ---
 
