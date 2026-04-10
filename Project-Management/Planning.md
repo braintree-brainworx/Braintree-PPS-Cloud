@@ -8,18 +8,16 @@ One or more resources can be assigned to a task. For each resource, you can spec
 
 The columns below are affected by task planning:
 
-![alt text](/Project-Management/proj_images/image-10.png)
-
-![alt text](/Project-Management/proj_images/image-11.png)
+![alt text](proj_images/image-11.png)
 
 ### Plan a task
 On the task subform, select a task, and click on the Plan button on the line:
 
-![alt text](/Project-Management/proj_images/image-12.png)
+![alt text](proj_images/image-12.png)
 
 This will open the Task Schedule dialog for the task:
 
-![alt text](/Project-Management/proj_images/image-13.png)
+![alt text](proj_images/image-13.png)
 
 Capture the details as follows:
 
