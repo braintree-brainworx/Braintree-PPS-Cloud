@@ -1,5 +1,4 @@
 ## Plan tasks
-
 Scheduling information and resource allocations are set at the lowest level tasks. (You cannot assign resources to a heading line or total line.)
 
 Dependencies can be created between tasks by linking them.
@@ -67,6 +66,8 @@ Additionally, the following changes are made to the plan:
   ![alt text](proj_images/image-20.png)
 
     Note: if your resource is assigned to the task for a full day (rate of effort is 8 or more hours), only one planning line will be created.  If your resource is assigned part time to the task (rate of effort is less than 8), a separate planning line will be created for each day.
+
+    [Understanding Planning Lines](Understanding-planning-lines)
 
 ### Add resources to a task
 You can add more resources to a task in two ways: 
