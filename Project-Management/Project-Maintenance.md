@@ -5,9 +5,10 @@ description: Support and documentation for Braintree's Projects and Professional
 ---
 
 # Creating and maintaining projects
-
 The preferred role centre for all users involved in 'Braintree PPS'. It's recommended that you switch to this role centre before continuing.
 
 - [Create a Project](Create-Maintain-Project)
 - [The Work Breakdown Structure](Work-Breakdown-Structure)
 - [Planning](Planning.md)
+
+# Baselines and Milestones
