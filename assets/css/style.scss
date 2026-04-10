@@ -2,7 +2,7 @@
 ---
 
 // Import custom variables first to override defaults
-@import "braintree-variables";
+@import "braintree-original";
 
 // Then import the theme
 @import "{{ site.theme }}";
