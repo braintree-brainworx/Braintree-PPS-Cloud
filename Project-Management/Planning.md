@@ -1,7 +1,7 @@
 ## Plan tasks
 Scheduling information and resource allocations are set at the lowest level tasks. (You cannot assign resources to a heading line or total line.)
 
-Dependencies can be created between tasks by linking them.
+      Dependencies can be created between tasks by linking them.
 
 One or more resources can be assigned to a task. For each resource, you can specify a planned duration, a level of effort and a rate of work (eg 4 hours per day). 
 
@@ -31,7 +31,7 @@ Capture the details as follows:
 | End Date | The date on which you plan to end the task. |
 | Split planning | If set to On, a separate planning line will be created for each day of the task's duration | 
 
-    Note: when you change the duration, or the effort or the rate of effort, at least on of the other two parameters must also be changed.
+  > Note: when you change the duration, or the effort or the rate of effort, at least on of the other two parameters must also be changed.
 
 **Example 1: Planning Priority: Effort, Duration 5 Days**
 If you change the duration to 5, the system will prompt you to update the effort, or the rate of effort:
@@ -55,19 +55,13 @@ Click on OK to complete the plan. The Start Date, Duration, Resources and Planne
 
 ![alt text](proj_images/image-18.png)
 
-Additionally, the following changes are made to the plan:
-- The task Status will change to Assigned.
-- The Task Resource Request list is updated with an entry for each resource on the task, and hours are assigned according to the scheduling parameters.
-  
-  ![alt text](proj_images/image-19.png)
-
+Additionally, 
+- the task Status will change to Assigned.
 - Planning lines are created.
 
   ![alt text](proj_images/image-20.png)
 
-    Note: if your resource is assigned to the task for a full day (rate of effort is 8 or more hours), only one planning line will be created.  If your resource is assigned part time to the task (rate of effort is less than 8), a separate planning line will be created for each day.
-
-    [Understanding Planning Lines](Understanding-planning-lines)
+>[Understanding Planning Lines](Understanding-planning-lines)
 
 ### Add resources to a task
 You can add more resources to a task in two ways: 
