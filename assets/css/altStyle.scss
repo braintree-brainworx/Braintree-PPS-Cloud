@@ -54,7 +54,7 @@ html {
 
 // Change body background color
 body {
-  background-color: $braintree-colour7;
+  background-color: $braintree-colour1;
 }
 
 // Optional: Change main content background if you want it different from body
@@ -118,7 +118,7 @@ body {
     h3 {
       margin-top: 0;
       margin-bottom: 1rem;
-      color: $braintree-font;
+      color: $braintree-button-color;
       font-size: 1.25rem;
       font-weight: bold;
       padding-bottom: 0.5rem;
@@ -134,7 +134,7 @@ body {
           margin-bottom: 0.75rem;
           
           a {
-            color: $body-text-color;
+            color: $braintree-button-color;
             text-decoration: none;
             font-weight: 500;
             display: block;
@@ -229,7 +229,7 @@ body {
           margin-bottom: 0.75rem;
           
           a {
-            color: $body-text-color;
+            color: $braintree-button-color;
             text-decoration: none;
             font-weight: 500;
             display: block;
