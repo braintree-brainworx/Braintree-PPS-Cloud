@@ -8,6 +8,6 @@ description: Support and documentation for Braintree's Projects and Professional
 
 The preferred role centre for all users involved in 'Braintree PPS'. It's recommended that you switch to this role centre before continuing.
 
-- [Create a Project](Create-a-New-Project)
+- [Create a Project](Create-Maintain-Project)
 - [The Work Breakdown Structure](Work-Breakdown-Structure)
 - [Planning](Planning.md)
