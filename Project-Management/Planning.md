@@ -1,7 +1,7 @@
 ## Plan tasks
 Scheduling information and resource allocations are set at the lowest level tasks. (You cannot assign resources to a heading line or total line.)
 
-      Dependencies can be created between tasks by linking them.
+Dependencies can be created between tasks by linking them.
 
 One or more resources can be assigned to a task. For each resource, you can specify a planned duration, a level of effort and a rate of work (eg 4 hours per day). 
 

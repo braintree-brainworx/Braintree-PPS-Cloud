@@ -1,10 +1,16 @@
+---
+layout: NewLayout
+title: Braintree Projects and Professional Services for Business Central
+description: Support and documentation for Braintree's Projects and Professional Services extension to Microsoft Dynamics 365 Business Central
+---
+
 # Why we need baselines
 A project baseline records the approved scope (deliverables), time, and cost that has been agreed for the execution of the project. Baselines are used to measure:
 - project profitability
 - progress against budget
 - performance of resources
 
-In PPS, baselines specifically apply to fixed-price projects or tasks.
+>In PPS, baselines specifically apply to fixed-price projects or tasks.
 
 ## When to create or update a baseline
 You should update the project baseline under the following circumstances:
@@ -18,11 +24,11 @@ After creating, planning and resourcing all tasks as per the initial scope of th
 
 From the Project menu, click on 'Update Baseline':
 
-  ![alt text](.images/image-30.png)
+  ![alt text](proj_images/image-30.png)
 
 The baseline summary will appear, summarising planned costs per task and resource.
 
-  ![alt text](.images/image-31.png)
+  ![alt text](proj_images/image-31.png)
 
 The following information is displayed:
 
@@ -41,13 +47,13 @@ The following information is displayed:
 | Planned to Actual Variance | Variance between Actual quantity and Planned Quantity|
 
 ## Committing the proposed baseline
-To save the baseline, click on 'Adjust Baseline':  
+      To save the baseline, click on 'Adjust Baseline':  
 
-![alt text](.images/image-28.png)
+![alt text](proj_images/image-28.png)
 
 Click Yes on the confirmation dialog:
 
-![alt text](.images/image-29.png)
+![alt text](proj_images/image-29.png)
 
 The baseline values are committed to the project, and the page will close. You can view the baseline entries by clicking on 'View Baseline' from the project card.
 
@@ -55,21 +61,21 @@ The baseline values are committed to the project, and the page will close. You c
 
 On the project card, select the task you want to modify. The Task Resources list will be displayed below the task list.
 
-![alt text](.images/image-32.png)
+![alt text](proj_images/image-32.png)
 
 Click on the first blank line in the Task Resource request, and select a new resource. 
 
-![alt text](.images/image-33.png)
+![alt text](proj_images/image-33.png)
 
 Adjust the estimated hours as required.
 
 To reduce / remove the hours assigned to the original resource, click in the column 'Estimated Hours'. Change the value to zero to remove the resource's allocation, or amend to the value you intend to use.
 
-![alt text](.images/image-34.png)
+![alt text](proj_images/image-34.png)
 
 Once you are happy with the changes you have made, click on 'Update Baseline' in the project card menu. A new budget proposal will be suggested:
 
-![alt text](.images/image-35.png)
+![alt text](proj_images/image-35.png)
 
 If the status of the project is 'Planning':
 - the action on each line with a variance will be set to 'Update'. 
@@ -83,7 +89,7 @@ You can change the action on individual lines manually, or you can change the st
 
 To modify the action on multiple lines, select the lines, then click on 'Set Selected to Update':
 
-![alt text](.images/image-41.png)
+![alt text](proj_images/image-41.png)
 
 The status will be modified to 'Update', and the Budget Adjustment value will be set to the planned variance.
 
@@ -98,11 +104,13 @@ Click on 'Adjust Baseline' to commit the changes. On the Project Card, view the 
 ### Creating a partial baseline for selected tasks
 You can selectively set or adjust the baseline for certain tasks. In the task list, select one or more tasks, then click on 'Update Baseline' in the task list menu:
 
-![alt text](.images/image-42.png)
+![alt text](proj_images/image-42.png)
 
 The budget for the selected tasks will be displayed.
 
 ### View budget
 Each time you amend the budget, a new budget number is created. Entries are created in the Project Baseline Entries table reflecting the movement. For example, if you initially set a task budget for 40 hours, then later amend it to 60 hours, there will be two entries in the detailed budget list - one for the initial 40 hours, and a second for the additional 20 hours.
 
-To view the detail, click on 'View Baseline' on the Project Card.
+    To view the detail, click on 'View Baseline' on the Project Card.
+
+testing stuff
