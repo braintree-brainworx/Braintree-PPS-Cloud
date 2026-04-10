@@ -111,6 +111,4 @@ The budget for the selected tasks will be displayed.
 ### View budget
 Each time you amend the budget, a new budget number is created. Entries are created in the Project Baseline Entries table reflecting the movement. For example, if you initially set a task budget for 40 hours, then later amend it to 60 hours, there will be two entries in the detailed budget list - one for the initial 40 hours, and a second for the additional 20 hours.
 
-    To view the detail, click on 'View Baseline' on the Project Card.
-
-testing stuff
+To view the detail, click on 'View Baseline' on the Project Card.

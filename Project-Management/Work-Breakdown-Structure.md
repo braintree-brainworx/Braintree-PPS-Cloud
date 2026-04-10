@@ -1,3 +1,9 @@
+---
+layout: NewLayout
+title: Braintree Projects and Professional Services for Business Central
+description: Support and documentation for Braintree's Projects and Professional Services extension to Microsoft Dynamics 365 Business Central
+---
+
 ## Create a work breakdown structure
 This section typically applies to projects and product development projects. For support projects, you should use tickets to create new tasks.
 

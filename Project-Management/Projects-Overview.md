@@ -1,3 +1,9 @@
+---
+layout: NewLayout
+title: Braintree Projects and Professional Services for Business Central
+description: Support and documentation for Braintree's Projects and Professional Services extension to Microsoft Dynamics 365 Business Central
+---
+
 # Overview
 The Projects module of Business Central is used to manage operations relating to professional services which Braintree offers to customers. These include delivery of projects (with a defined start and end, and fixed scope), and adhoc support. All work involving professional resources is organised into projects and tasks within the module. 
 

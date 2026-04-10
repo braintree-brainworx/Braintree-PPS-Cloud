@@ -1,3 +1,9 @@
+---
+layout: NewLayout
+title: Braintree Projects and Professional Services for Business Central
+description: Support and documentation for Braintree's Projects and Professional Services extension to Microsoft Dynamics 365 Business Central
+---
+
 # Understanding the Task Subpage
 The Task Subpage is displayed on the project card. It contains the work breakdown structure in a hierarchy of tasks, with summarised data of underlying data, including planned cost, baselines, and committed costs.The following information is displayed:
 
