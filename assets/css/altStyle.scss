@@ -134,7 +134,7 @@ body {
           margin-bottom: 0.75rem;
           
           a {
-            color: $braintree-button-color;
+            color: $body-text-color;
             text-decoration: none;
             font-weight: 500;
             display: block;
@@ -229,7 +229,7 @@ body {
           margin-bottom: 0.75rem;
           
           a {
-            color: $braintree-button-color;
+            color: $body-text-color;
             text-decoration: none;
             font-weight: 500;
             display: block;
@@ -258,7 +258,8 @@ body {
     li {
       margin-bottom: 0.5rem;
       line-height: 1.6;
-      color: $braintree-font;
+      // color: $braintree-font;
+      color: $braintree-button-color;
       
       &::marker {
         color: $braintree-font;
@@ -288,7 +289,7 @@ body {
       color: #333;
       
       &::marker {
-        color: $braintree-font;
+        color: $braintree-button-color;
         font-weight: bold;
       }
     }
