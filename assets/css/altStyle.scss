@@ -2,7 +2,7 @@
 ---
 
 // Import custom variables first to override defaults
-@import "braintree-alt";
+@import "braintree-variables";
 
 // Then import the theme
 @import "{{ site.theme }}";
@@ -54,7 +54,7 @@ html {
 
 // Change body background color
 body {
-  background-color: $braintree-colour3;
+  background-color: $braintree-background;
 }
 
 // Optional: Change main content background if you want it different from body
