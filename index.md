@@ -1,8 +1,9 @@
 ---
-layout: default
+layout: NewLayout
 title: Business Central for Project Management
 description: Enhanced functionality for project management in Microsoft Dynamics 365 Business Central
 ---
+
 # Braintree Projects and Professional Services
 
 Braintree's Projects and Professional Services (PPS) app builds on the core functionality of The Projects module of Microsoft Dynamics 365 Business Central contains great functionality for simple project execution. 
