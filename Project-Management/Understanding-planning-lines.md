@@ -5,4 +5,4 @@ description: Support and documentation for Braintree's Projects and Professional
 ---
 
 # Understanding Planning Lines
-
+In the Projects module of Microsoft Dynamics 365 Business Central, the Planning Line is the lowest level in the project hierarchical structure.

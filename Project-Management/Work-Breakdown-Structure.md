@@ -15,11 +15,11 @@ After creating the project, you can edit and update the Work Breakdown Structure
 ## Create new structure
 To create a new structure to the project, click on 'Create Outline' from the project card:
 
-![alt text](.images/image-6.png)
+![alt text](proj_images/image-6.png)
 
 The 'Create Project Tasks' dialog will open:
 
-![alt text](.images/image-7.png)
+![alt text](proj_images/image-7.png)
 
 Capture the fields as follows:
 
@@ -32,16 +32,16 @@ Capture the fields as follows:
 
 When you have captured the parameters, click on OK.  Below is an example of a project with 3 main Structures, each with multiple sections and tasks.
 
-![alt text](.images/image-8.png)
+![alt text](proj_images/image-8.png)
 
 **Add a new section to the WBS**
 Select the heading under which you want to add the new structure. On the tasks subpage, click on 'Create Subsection':
 
-![alt text](.images/image-9.png)
+![alt text](proj_images/image-9.png)
 
 **Add a new task to a section**
 Select the heading under which you want to add a new task, and click on 'Create Subtask':
 
-![alt text](.images/image-10.png)
+![alt text](proj_images/image-10.png)
 
 A new task will be added to the end of the selected section.
