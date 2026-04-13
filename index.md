@@ -16,4 +16,4 @@ The extension adds the following functionality:
 
 ## [Projects Overview](Project-Management/Projects-Overview.md)
 
-## [Resource Management](Resource-management/Resource-Management.md)
+## [Resource Management](Resource-management/Resource-Overview.md)
