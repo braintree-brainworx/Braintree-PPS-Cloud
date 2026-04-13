@@ -15,3 +15,5 @@ The extension adds the following functionality:
 - Prevent overspending on a project before it occurs
 
 ## [Projects Overview](Project-Management/Projects-Overview.md)
+
+## [Resource Management](Resource-management/Resource-Management.md)
