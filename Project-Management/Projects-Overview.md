@@ -24,7 +24,6 @@ The preferred role centre for all users involved in 'Braintree PPS'. It's recomm
 - [Understanding Planning Lines](Understanding-planning-lines)
 - [Calculating Earned Value]()
 - [Change Requests](Change-Requests)
-- [Checklists]()
 - [Billing](Project-billing)
 
 # Data Structure
