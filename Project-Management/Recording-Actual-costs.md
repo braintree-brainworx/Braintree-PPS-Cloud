@@ -53,5 +53,5 @@ After capturing all the lines for the requisition, click on 'Validate Budget':
 
 The system checks the amount requested on each line, against available budget for the task and type (ie item or GL account). If budget is available for the line, the status changes to 'Reserved'. If there is not enough budget, the status changes to 'Insufficient'. 
 
-
 # Project Journals
+Project journals allow you to assign resource costs, material costs or general ledger expenses to a project task.
