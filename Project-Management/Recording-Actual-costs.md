@@ -28,7 +28,9 @@ If you want to track the cost of work performed on a project by your own resourc
 Refer to Microsoft documentation on how to set up, capture and post time sheets.
 
 ## Purchase Requisitions, Orders and Invoices
-Purchases for inventory items or general expenses can be linked to projects, and can be reported in the committed costs for the project as soon as a purchase requisition is created.
+Purchases for inventory items or general expenses can be linked to projects, using a requisition or order. The purchase document must be validated to verify that sufficient budget is available. Once the document is validated and approved, the cost will reflect on the project as committed budget. Thereafter, the process follows the standard Business Central process, where the requisition is converted to the order, the order is received, and then invoiced.
+
+ ![alt-text](Purchases.drawio.png)
 
 ## Create a Purchase Requisition
 From the project card, select Purchases -> Purchase Requisitions:
@@ -55,3 +57,8 @@ The system checks the amount requested on each line, against available budget fo
 
 # Project Journals
 Project journals allow you to assign resource costs, material costs or general ledger expenses to a project task.
+
+Search for and open 'Project Journal'.  On the journal page, capture the costs as follows:
+
+|Column | Description |
+|---|---|
