@@ -4,7 +4,26 @@ title: Braintree Projects and Professional Services for Business Central
 description: Support and documentation for Braintree's Projects and Professional Services extension to Microsoft Dynamics 365 Business Central
 ---
 
-# Recording Actual Costs
+# Planned Costs, Committed Costs and Actual Costs
+Before work commences on a project, the cost of executing the project - labour, material and general expenses -  is estimated. This estimate becomes the initial planned cost, or baseline budget. As the project progresses, planned costs may be revised due to many reasons:
+
+- as work proceeds, new information becomes available and requirements are refined
+- some activities may be delivered faster (or slower) than initially expected.
+- changes in pricing from suppliers
+- environmental factors 
+- changes in scope
+- unexpected roadblocks
+
+A project manager will need to continually revise the planned costs as the project progresses. The revised planned costs become a forecast for completion of the project.
+
+To execute the project, costs are incurred, typically in the form of labour, materials, but may also include other expenses, such as travel, accommodation, subcontracting. Incurred costs are compared to planned and baseline costs to assess the progress and profitability of the project.
+
+In conventional ERP systems, incurred costs are recognised only when they are recorded as actual expenses in the general ledger, for example when a supplier invoices has been posted. For projects, this is often too late for effective budget control. As soon as a project manager makes a decision to procure materials, the cost is considered to be committed, and available budget is reduced. 
+
+- *Committed Costs* are costs for services which have been requested, but not yet delivered. Purchases at requisition stage or order stage are considered committed, and the cost is reserved against the budget
+- *Actual Costs* are costs for services which have finalised and recorded in the general ledger. For purchases, this means that an invoice from a supplier has been received and recorded in the financial system.
+
+# Recording Costs
 After creating the work breakdown structure (WBS), assigning resources and setting a baseline, you are ready to start work on the project.
 
 From the project card, change the status from Planning to Open:
@@ -62,3 +81,20 @@ Search for and open 'Project Journal'.  On the journal page, capture the costs a
 
 |Column | Description |
 |---|---|
+|Posting Date |Date on which costs are recorded|
+|Document No.|Document number|
+|Project No.|Project number|
+|Project Task No.|Task number to which costs are assigned|
+|Type|Choose from Resource, Item or G/L Account|
+|No.|Choose from the dropdown|
+|Description|Description of transaction|
+|Quantity|Quantity to consume|
+|Location code|For items, the location from which stock will be issued|
+|Work Type Code|For resources, optional work type code|
+|Unit of measure code||
+|Unit Cost|Default from source item, override if required|
+|Unit cost (LCY)|Default from source item, override if required|
+|Total Cost||
+|Total Cost (LCY)||
+|Unit Price|Default from source item, override if required|
+|Line Amount||
