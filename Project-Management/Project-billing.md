@@ -13,5 +13,4 @@ In PPS, revenue for a project can be generated in two ways:
 # Time and Material Projects
 
 
-
 # Fixed Price Projects
