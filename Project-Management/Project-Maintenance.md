@@ -10,7 +10,5 @@ The preferred role centre for all users involved in 'Braintree PPS'. It's recomm
 - [Create a Project](Create-Maintain-Project)
 - [The Work Breakdown Structure](Work-Breakdown-Structure)
 - [Planning](Planning.md)
-
-# [Managing baselines](Setting-baselines)
-
-# [Creating Milestones](Milestones)
+- [Managing baselines](Setting-baselines)
+- [Creating Milestones](Milestones)
