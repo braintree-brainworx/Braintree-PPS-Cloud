@@ -47,7 +47,6 @@ The preferred role centre for all users involved in 'Braintree PPS'. It's recomm
 
 - A project is created and linked to a customer.
 - A work breakdown structure is defined.
-- 
 
 ##  Definitions
 
@@ -87,17 +86,17 @@ The preferred role centre for all users involved in 'Braintree PPS'. It's recomm
 
 The Braintree PPS role centre contains an area called 'My Projects'. You can use this to provide quick links to the projects you are actively working on.
 
-![alt text](.images/image-37.png)
+![alt text](proj_images/image-37.png)
 
 To edit the list, click on the dropdown menu in the My Projects area, and select Manage List:
 
-![alt text](.images/image-38.png)
+![alt text](proj_images/image-38.png)
 
 Your list of projects will be displayed:
 
-![alt text](.images/image-39.png)
+![alt text](proj_images/image-39.png)
 
 To add a project to your list, go to the first blank line and select the project from the dropdown. 
 To remove a project, select the line, then click on the '...' next to the project number and click on Delete:
 
-![alt text](.images/image-40.png)
+![alt text](proj_images/image-40.png)
