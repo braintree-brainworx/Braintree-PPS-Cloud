@@ -5,12 +5,11 @@ description: Support and documentation for Braintree's Projects and Professional
 ---
 
 ## Create a work breakdown structure
-This section typically applies to projects and product development projects. For support projects, you should use tickets to create new tasks.
-
+A project is typically broken down into a hierarchy of tasks and subtasks, commonly known as a work breakdown structure (WBS).
 An initial outline can be generated from the Project creation dialogue, or created after the project has been created. Extra phases or activities can be added to the WBS at any time.
 
 ## Create initial outline from project card
-After creating the project, you can edit and update the Work Breakdown Structure (WBS) by adding new sections, subsections or tasks.
+After creating the project, you can edit and update the Work Breakdown Structure by adding new sections, subsections or tasks.
 
 ## Create new structure
 To create a new structure to the project, click on 'Create Outline' from the project card:
@@ -34,12 +33,12 @@ When you have captured the parameters, click on OK.  Below is an example of a pr
 
 ![alt text](proj_images/image-8.png)
 
-**Add a new section to the WBS**
+**Add a new section to the WBS:**
 Select the heading under which you want to add the new structure. On the tasks subpage, click on 'Create Subsection':
 
 ![alt text](proj_images/image-9.png)
 
-**Add a new task to a section**
+**Add a new task to a section:**
 Select the heading under which you want to add a new task, and click on 'Create Subtask':
 
 ![alt text](proj_images/image-10.png)
