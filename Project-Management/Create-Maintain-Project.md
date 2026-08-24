@@ -39,9 +39,10 @@ The project will be created and the project card will open.
 
 # The Project Card
 
-The Project card consists of several sections: 
-- **General tab**: displays key information about the project
-- **Project Tasks Lines Subform:** displays the work breakdown structure (list of tasks)
+The Project card consists of several sections. Areas that form part of the standard BC Projects module are not discussed in detail - more information is available on the Microsoft Learn site.
+
+- [**General tab**](#general-tab): displays key information about the project
+- **Project Tasks Lines:** displays the work breakdown structure (list of tasks)
 - **Project Planning Lines:** displays costing and billing details for a selected task.
 - **Project Accounting tab:** contains parameters used for managing the WBS structure
 - **Posting:** defines settings that control how transactions are posted in the standard Business Central projects module.
@@ -49,3 +50,14 @@ The Project card consists of several sections:
 - **Duration:** defines the start and end date of the project.
 - **Foreign Trade:** defines details related to projects managed or billed in foreign currency.
 - **WIP and Recognition** contains information relating to the management of Work in Progress.
+
+## General Tab
+The General tab contains two additional fields:
+
+- Job Category:
+- Contract Type 
+
+See [Definitions](Projects-Overview#definitions) for details.
+
+## Project task lines
+This subpage contains the work breakdown structure of the project. see [The Work Breakdown Structure](Work-Breakdown-Structure) for more details.
