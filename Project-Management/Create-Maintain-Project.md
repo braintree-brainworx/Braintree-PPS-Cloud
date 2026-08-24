@@ -4,6 +4,9 @@ title: Business Central for Project Management
 description: Enhanced functionality for project management in Microsoft Dynamics 365 Business Central
 ---
 
+- [Create a New Project](#create-a-new-project)
+- [The Project Card](#the-project-card)
+
 ## Create a new Project
 
 From the Role Centre, click on Projects:
@@ -33,3 +36,16 @@ Click on OK to complete the activity. Confirm the creation of the project by cli
 ![alt text](Screenshots/image-3.png)
 
 The project will be created and the project card will open.
+
+# The Project Card
+
+The Project card consists of several sections: 
+- **General tab**: displays key information about the project
+- **Project Tasks Lines Subform:** displays the work breakdown structure (list of tasks)
+- **Project Planning Lines:** displays costing and billing details for a selected task.
+- **Project Accounting tab:** contains parameters used for managing the WBS structure
+- **Posting:** defines settings that control how transactions are posted in the standard Business Central projects module.
+- **Invoicing and Shipping:** contains details related to shipping of goods and invoicing for the project.
+- **Duration:** defines the start and end date of the project.
+- **Foreign Trade:** defines details related to projects managed or billed in foreign currency.
+- **WIP and Recognition** contains information relating to the management of Work in Progress.

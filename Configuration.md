@@ -51,4 +51,5 @@ It's a good idea to create codes in a sequence that follows your process. Captur
 | Next Status Code | Select the status to which the task should be moved to in your process flow | 
 
 **Status options**
+
 ![alt text](Screenshots/image-5.png)
