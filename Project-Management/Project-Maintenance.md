@@ -12,3 +12,6 @@ The preferred role centre for all users involved in 'Braintree PPS'. It's recomm
 - [Planning](Planning.md)
 - [Managing baselines](Setting-baselines)
 - [Creating Milestones](Milestones)
+- [Understanding the Task subform and Card](Understanding-the-task-subpage)
+- [Understanding Planning Lines](Understanding-planning-lines)
+- [Calculating Earned Value]()
