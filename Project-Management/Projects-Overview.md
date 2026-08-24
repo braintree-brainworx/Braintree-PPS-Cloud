@@ -14,7 +14,6 @@ The preferred role centre for all users involved in 'Braintree PPS'. It's recomm
 
 - [Data Structure](#data-structure)
 - [Definitions](#definitions)
-- [Create a Project](Create-a-New-Project)
 - [The Work Breakdown Structure](Work-Breakdown-Structure)
 - [Planning](Planning.md)
 - [Setting a baseline](Setting-baselines)
