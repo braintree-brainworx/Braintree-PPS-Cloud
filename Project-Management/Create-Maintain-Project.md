@@ -60,4 +60,8 @@ The General tab contains two additional fields:
 See [Definitions](Projects-Overview#definitions) for details.
 
 ## Project task lines
-This subpage contains the work breakdown structure of the project. see [The Work Breakdown Structure](Work-Breakdown-Structure) for more details.
+This subpage contains the work breakdown structure of the project. See [The Work Breakdown Structure](Work-Breakdown-Structure) for more details.
+
+## Project Planning lines
+This subpage contains the planning lines, which contain planned cost and planned billing, for a selected task. 
+See [Understanding Planning Lines](Understanding-planning-lines) for more details
