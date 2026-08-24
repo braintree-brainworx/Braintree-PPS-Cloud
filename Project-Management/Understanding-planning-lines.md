@@ -36,6 +36,7 @@ All planning lines for the project will open.
 ![alt text](image-9.png)
 
 **Planning Line Fields**
+
 | # | Field Name | Type | Description / Purpose / Usage |
 |---:|---|---|---|
 | 2 | Job No. | Code[20] | Identifies the parent job that owns this planning line; used in filtering, posting, and reporting by project. |

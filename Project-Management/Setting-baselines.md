@@ -36,7 +36,7 @@ The following information is displayed:
 | **Field** | **Content** |
 |---|---|
 | Task | Manages support requests; usually costed as time and material |
-| Resource No. | |
+| Resource No. | The identifier of the resource associated with the baseline entry.|
 | Current Baseline Quantity | Number of hours previously baselined for the resource on this task|
 | Current Baseline Total Price | Monetary value baselined for the resource on this task |
 | Planned Qty | Number of hours currently assigned to the resource for this task. This will include actual hours already registered via time sheets |
