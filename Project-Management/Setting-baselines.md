@@ -30,6 +30,7 @@ The baseline summary will appear, summarising planned costs per task and resourc
 
   ![alt text](proj_images/image-31.png)
 
+<a id="baseline-temp-table"></a>
 The following information is displayed:
 
 | **Field** | **Content** |
@@ -47,7 +48,7 @@ The following information is displayed:
 | Planned to Actual Variance | Variance between Actual quantity and Planned Quantity|
 
 ## Committing the proposed baseline
-      To save the baseline, click on 'Adjust Baseline':  
+To save the baseline, click on 'Adjust Baseline':  
 
 ![alt text](proj_images/image-28.png)
 
