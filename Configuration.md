@@ -6,6 +6,7 @@ description: Enhanced functionality for project management in Microsoft Dynamics
 
 - [Installation](#installation)
 - [PPS Setup](#pps-setup)
+- [User Setups](#user-setup)
 - [Task Status Codes](#task-status-codes)
 
 # Installation
@@ -29,6 +30,19 @@ From the menu, select 'PPS Setup':
 
 ![alt text](Screenshots/image.png)
 
+# User Setup
+From the PPS Setup page, select 'User Setup'. 
+
+![alt text](Screenshots/image-6.png)
+
+The page should contain an entry for each user authorised to work in the Business Central installation. 
+
+![alt text](Screenshots/image-7.png)
+
+Based on the user's role, you may modify the tick boxes on the sheet:
+- For resource managers, turning on the field 'Time Sheet Admin.' will allow the user to create and approve time sheets.
+- For project managers, turning on the 'Save Baseline' box will allow the user to create a baseline on a project. Turning on the 'Edit Baseline' box allows the project manager to edit and update existing time sheets.
+  
 # Task Status Codes
 Task status codes are used to assign statuses to tasks on projects. 
 
