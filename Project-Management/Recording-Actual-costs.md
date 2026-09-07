@@ -21,7 +21,7 @@ To execute the project, costs are incurred, typically in the form of labour, mat
 In conventional ERP systems, incurred costs are recognised only when they are recorded as actual expenses in the general ledger, for example when a supplier invoices has been posted. For projects, this is often too late for effective budget control. As soon as a project manager makes a decision to procure materials, the cost is considered to be committed, and available budget is reduced. 
 
 - *Committed Costs* are costs for services which have been requested, but not yet delivered. Purchases at requisition stage or order stage are considered committed, and the cost is reserved against the budget
-- *Actual Costs* are costs for services which have finalised and recorded in the general ledger. For purchases, this means that an invoice from a supplier has been received and recorded in the financial system.
+- *Actual Costs* are costs for services which have been finalised and recorded in the general ledger. For purchases, this means that an invoice from a supplier has been received and recorded in the financial system.
 
 # Recording Costs
 After creating the work breakdown structure (WBS), assigning resources and setting a baseline, you are ready to start work on the project.
@@ -35,7 +35,7 @@ Costs can be assigned to a project by:
 - [Capturing purchases against the project](#purchase-requisitions-orders-and-invoices)
 - [Capturing project journals to issue inventory to projects, or to assign general expenses to projects](#project-journals)
 
-# Resource Time Sheets
+## Resource Time Sheets
 If you want to track the cost of work performed on a project by your own resources, you can use the standard time sheet functionality in Business Central. This allows you to:
 
 - have individual users record the time they spent working on project tasks
