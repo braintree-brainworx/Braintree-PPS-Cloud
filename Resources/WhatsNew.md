@@ -1,5 +1,15 @@
 # Release notes
 
+**Release 28.0.20261029.x**
+<details>
+<summary>Replanning  (click for details)</summary>
+<ul>
+<li>Bug: Changing the planning parameters of a task does not update the planning date of resources</li>
+<li>Replan function updates the starting date for resource assignments that have not started (Qty Posted = 0)</li> 
+<!-- copy line above to add details -->
+</ul>
+</details>
+
 **Release 28.0.20260730.1**
 <details>
 <summary>Replanning  (click for details)</summary>

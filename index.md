@@ -14,6 +14,7 @@ The extension adds the following functionality:
 - Keep track of committed costs from point of requisition
 - Prevent overspending on a project before it occurs
 - Calculate earned value per task or project
+- Capitalise project costs to a fixed asset.
 
 ## [Projects Overview](Project-Management/Projects-Overview.md)
 
